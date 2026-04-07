@@ -6,7 +6,7 @@ A polished, responsive wall calendar component built for the **Frontend Engineer
 
 ## ✨ Live Demo
 
-> Deploy on Vercel: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+> Deploy on Vercel: [![Deploy with Vercel](https://vercel.com/button)]([https://vercel.com/new](https://wall-calendar-47347lrqd-vanshiv46s-projects.vercel.app/))
 
 ---
 
