@@ -120,5 +120,5 @@ Typography pairing:
 
 ## 📬 Submission Info
 
-Built with ❤️ for the Frontend Engineering Challenge.  
+Built by Vanshiv Garg for the Frontend Engineering Challenge(TakeuForward)  
 Focus: component architecture, CSS craftsmanship, state management, and UX attention to detail.
