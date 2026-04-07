@@ -1,6 +1,6 @@
 # 📅 Wall Calendar — Interactive React Component
 
-A polished, responsive wall calendar component built for the **Frontend Engineering Challenge**. Inspired by the aesthetics of a physical wall calendar, this component transforms the familiar desk-calendar experience into a fluid digital interface.
+A polished, responsive wall calendar component built for the **Frontend Engineering Challenge(TakeuForward)**. Inspired by the aesthetics of a physical wall calendar, this component transforms the familiar desk-calendar experience into a fluid digital interface.
 
 ---
 
