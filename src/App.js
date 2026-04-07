@@ -1,6 +1,7 @@
-import React from "react";;
-import Calendar from "./components/Calendar";
+import React from "react";
 import "./App.css";
+import Calendar from "./components/Calendar";
+
 
 const MONTH_IMAGES = [
   { month: "January", gradient: "linear-gradient(135deg, #1a1a2e 0%, #16213e 40%, #0f3460 100%)", accent: "#e94560", scene: "❄️", label: "Winter Peaks" },
